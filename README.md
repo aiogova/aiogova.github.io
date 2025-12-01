@@ -5,7 +5,7 @@ This is a personal website that I made for my web development class. It includes
 
 Click the link below to take a look at my personal website.
 
--[Personal Website](https://aiogova.github.io/)
+- [Personal Website](https://aiogova.github.io/)
 
 ## Usage Instructions
 
