@@ -9,4 +9,4 @@ Click the link below to take a look at my personal website.
 - [Personal Website](https://aiogova.github.io/)
 
 ## Installation Instructions
-
+There is no server-side programming in this project, so this site can be hosted on any platform that accommodates HTML, CSS, and JavaScript.
