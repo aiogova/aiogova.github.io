@@ -12,5 +12,3 @@ Click the link below to take a look at my personal website.
 There is no server-side programming in this project, so this site can be hosted on any platform that accommodates HTML, CSS, and JavaScript. In other words, this site is entirely frontend. It consists of static files. There is no backend code, so this site doesn't need anything to run except a web browser. Any hosting service that can serve static files will work. So there is nothing to really "install" here in a traditional sense.
 
 The site is deployed using GitHub Pages and can be viewed directly in a web browser. The link in the "Usage Instructions" leads to that. 
-
-To run the project locally for development or inspection, clone the repository and open the 'index.html' file in any modern web browser. No additional setup is required.
